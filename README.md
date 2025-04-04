@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on projects that promote a better world and environment for all 
 - 📫 You can email me at @mstimaj@gmail.com 
 - 😄 Pronouns: her/she
-- ⚡ Fun fact: as a child I lived in Africa, Europe and Asia. Now getting old in America lol 
 
 <!---
 MsTimaj/MsTimaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
