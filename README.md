@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.tenor.com/IeQ9YzjdRAAAAAAC/matrix-code.gif" width="600" alt="Matrix Code Hacker Vibe" />
+  <img src="https://media.tenor.com/IeQ9YzjdRAAAAAAC/matrix-code.gif" width="600" alt="Matrix code rain" />
 </p>
 
 ---
@@ -19,12 +19,12 @@
 <h2 align="center">🧠 Technical Strengths</h2>
 
 <ul>
-  <li>✨ Machine Learning & AI: Supervised learning, classification, clustering, vector models, prompt engineering</li>
-  <li>📊 Data Engineering: SQL, datasets (structured/unstructured), pipelines, preprocessing, transformation</li>
-  <li>🧱 Full-Stack Foundations: HTML5, CSS3, JavaScript, Python, WordPress, MySQL, REST APIs</li>
-  <li>📦 Tools: Git, GitHub, VS Code, Cursor, Claude, GPT, Ollama, n8n, XAMPP, JupyterLab</li>
-  <li>🔐 Security: Network monitoring, anti-malware practices, privacy-forward system design</li>
-  <li>📈 Visualization: Charts, dashboards, exploratory data analysis, statistical representation</li>
+  <li>✨ <strong>Machine Learning & AI</strong>: Classification, NLP, logic chains, prompt engineering</li>
+  <li>📊 <strong>Data Engineering</strong>: SQL, ETL pipelines, structured/unstructured datasets, transformation</li>
+  <li>🧱 <strong>Full-Stack Development</strong>: HTML, CSS, JavaScript, Python, WordPress, REST APIs</li>
+  <li>📦 <strong>Tooling & Platforms</strong>: VS Code, Cursor, Claude, GPT-4o, Ollama, n8n, JupyterLab</li>
+  <li>🔐 <strong>Security & Infrastructure</strong>: Network hardening, local dev with XAMPP, privacy-by-design</li>
+  <li>📈 <strong>Visualization</strong>: Data storytelling, charts, timelines, bias mapping</li>
 </ul>
 
 ---
@@ -42,15 +42,12 @@
 
 ---
 
-<h2 align="center">💡 About Me</h2>
+<h2 align="center">😄 About Me</h2>
 
 <div align="center">
-  🌍 Black, Muslim, Neurodivergent Tech Futurist  
-  🔬 Exploring systems, entropy, and global unity through STEM  
-  🛸 Trying to debug the world we inherited—and build a better one  
-
-  <br/>
-
+  🌍 Global Citizen | 🛠 System Reformer | 🎯 Mission-Driven  
+  💬 I speak in code, but I build in empathy.  
+  <br/><br/>
   <blockquote>
     “Like someone left to debug a system they didn’t build, I’ve had to trace the corruption and correct what others kept dismissing.”
   </blockquote>
@@ -77,4 +74,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=Forward+%E2%86%92+Upward+%E2%86%92+Onward+%E2%86%92+Mstimaj" />
 </p>
+
 
