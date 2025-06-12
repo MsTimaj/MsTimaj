@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/EoHhU2C9o7SKY/giphy.gif" width="600" alt="Matrix code rain" />
+  <img src="https://i.gifer.com/7efs.gif" width="600" alt="Matrix code rain animation" />
 </p>
 
 ---
