@@ -49,6 +49,10 @@
   💬 I speak in code, but I build in empathy.  
   <br/><br/>
   <blockquote>
+  <em>“Tech should serve humanity — not the other way around.”</em>
+  </blockquote>
+  <br/><br/>
+  <blockquote>
     “Like someone left to debug a system they didn’t build, I’ve had to trace the corruption and correct what others kept dismissing.”
   </blockquote>
 </div>
