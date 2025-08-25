@@ -20,7 +20,7 @@
 
 <ul>
   <li>✨ <strong>Machine Learning & AI</strong>: Classification, NLP, logic chains, prompt engineering</li>
-  <li>📊 <strong>Data Engineering</strong>: SQL, ETL pipelines, structured/unstructured datasets, transformation</li>
+  <li>📊 <strong>Data Engineering</strong>: SQL, structured/unstructured datasets, transformation</li>
   <li>🧱 <strong>Full-Stack Development</strong>: HTML, CSS, JavaScript, Python, WordPress, REST APIs</li>
   <li>📦 <strong>Tooling & Platforms</strong>: VS Code, Cursor, Claude, GPT-4o, Ollama, n8n, JupyterLab</li>
   <li>🔐 <strong>Security & Infrastructure</strong>: Network hardening, local dev with XAMPP, privacy-by-design</li>
