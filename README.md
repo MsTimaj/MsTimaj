@@ -20,7 +20,8 @@ what a system does when it fails than what it does in the demo.
 | **Building on** | WordPress theme and plugin development, React, React Native with Expo, Next.js, Supabase, Vercel |
 | **Data** | MySQL including full-text indexing, PostgreSQL, SQLite. Schema design, migrations, and write paths that refuse to lose a record |
 | **Integration** | REST APIs, the Claude and OpenAI APIs, Gemini, Stripe webhooks, the Meta, X and YouTube APIs through Publer, n8n, Zapier |
-| **Daily** | Claude Code, OpenAI Codex, Git, VS Code |
+| **Models** | Claude, GPT, Gemini. Llama and Kimi run locally for work that should not leave the machine |
+| **Daily** | Claude Code, OpenAI Codex, Gemini CLI, Git, VS Code |
 
 ### Things you can open
 

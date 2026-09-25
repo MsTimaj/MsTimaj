@@ -24,33 +24,33 @@
   <rect width="1200" height="300" fill="url(#glow)"/>
   <rect width="1200" height="300" fill="url(#glow2)"/>
 
-  <!-- A retrieval pipeline, drawn small. It is what she builds, used as ornament. -->
-  <g opacity=".5">
-    <g stroke="#243733" stroke-width="1.5" fill="none">
-      <path d="M820 150 H872"/><path d="M932 150 H984"/><path d="M1044 150 H1096"/>
+  <!-- A retrieval pipeline. It is what she builds, used as the ornament. -->
+  <g opacity=".62">
+    <g stroke="#243733" stroke-width="2" fill="none">
+      <path d="M764 150 H788"/><path d="M892 150 H916"/><path d="M1020 150 H1044"/>
     </g>
-    <g stroke="#7ee0a6" stroke-width="1.5" fill="none" stroke-dasharray="6 10">
-      <path d="M820 150 H872">
-        <animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1.6s" repeatCount="indefinite"/>
+    <g stroke="#7ee0a6" stroke-width="2" fill="none" stroke-dasharray="7 11">
+      <path d="M764 150 H788">
+        <animate attributeName="stroke-dashoffset" from="0" to="-36" dur="1.6s" repeatCount="indefinite"/>
       </path>
-      <path d="M932 150 H984">
-        <animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1.6s" begin="-.5s" repeatCount="indefinite"/>
+      <path d="M892 150 H916">
+        <animate attributeName="stroke-dashoffset" from="0" to="-36" dur="1.6s" begin="-.53s" repeatCount="indefinite"/>
       </path>
-      <path d="M1044 150 H1096">
-        <animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1.6s" begin="-1s" repeatCount="indefinite"/>
+      <path d="M1020 150 H1044">
+        <animate attributeName="stroke-dashoffset" from="0" to="-36" dur="1.6s" begin="-1.06s" repeatCount="indefinite"/>
       </path>
     </g>
-    <g fill="#0c1614" stroke="#2f4a43" stroke-width="1.5">
-      <rect x="764" y="128" width="56" height="44" rx="8"/>
-      <rect x="872" y="128" width="60" height="44" rx="8"/>
-      <rect x="984" y="128" width="60" height="44" rx="8"/>
-      <rect x="1096" y="128" width="60" height="44" rx="8"/>
+    <g fill="#0c1614" stroke="#2f4a43" stroke-width="2">
+      <rect x="660" y="117" width="104" height="66" rx="11"/>
+      <rect x="788" y="117" width="104" height="66" rx="11"/>
+      <rect x="916" y="117" width="104" height="66" rx="11"/>
+      <rect x="1044" y="117" width="104" height="66" rx="11"/>
     </g>
-    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7ee0a6" text-anchor="middle">
-      <text x="792" y="154">ask</text>
-      <text x="902" y="154">retrieve</text>
-      <text x="1014" y="154">rank</text>
-      <text x="1126" y="154">answer</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="500" fill="#7ee0a6" text-anchor="middle">
+      <text x="712" y="155">ask</text>
+      <text x="840" y="155">retrieve</text>
+      <text x="968" y="155">rank</text>
+      <text x="1096" y="155">answer</text>
     </g>
   </g>
 
