@@ -9,9 +9,10 @@
 ### What I work on
 
 I build retrieval and automation systems, run them in production, and write the
-documentation that lets somebody else operate them without me. Before software I spent
-ten years in healthcare claims and commercial insurance, which is why I care more about
-what a system does when it fails than what it does in the demo.
+documentation that lets somebody else operate them without me. Ten years of client
+service and operations came first, including healthcare claims and commercial insurance,
+which is why I care more about what a system does when it fails than what it does in
+the demo.
 
 | | |
 |---|---|
