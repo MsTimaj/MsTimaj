@@ -20,7 +20,7 @@ what a system does when it fails than what it does in the demo.
 | **Building on** | WordPress theme and plugin development, React, React Native with Expo, Next.js, Supabase, Vercel |
 | **Data** | MySQL including full-text indexing, PostgreSQL, SQLite. Schema design, migrations, and write paths that refuse to lose a record |
 | **Integration** | REST APIs, the Claude and OpenAI APIs, Gemini, Stripe webhooks, the Meta, X and YouTube APIs through Publer, n8n, Zapier |
-| **Models** | Claude, GPT, Gemini. Llama and Kimi run locally for work that should not leave the machine |
+| **Models** | Claude Code is primary and Codex secondary, including for image generation. I run Kimi and DeepSeek inside the Claude Code harness when that is the better trade, and Llama locally through Ollama for n8n automations that should stay offline. Hugging Face models where a smaller one fits. |
 | **Daily** | Claude Code, OpenAI Codex, Gemini CLI, Git, VS Code |
 
 ### Things you can open
