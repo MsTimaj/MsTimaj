@@ -1,82 +1,59 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00FF9D&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi%2C+I'm+MsTimaj;Technology+for+Humanity;Building+a+Better+Future" alt="Typing SVG" />
-</div>
+<!-- guardian:skip -->
+<!-- Outbound URLs verified HTTP 200 on 2026-09-25. LinkedIn returns 999 to bots by design. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+  <img alt="Mstimaj. I build AI systems and run them in production, then explain them in plain language." src="./banner-dark.svg" width="100%">
+</picture>
 
-<p align="center">
-  <img src="https://media.tenor.com/IeQ9YzjdRAAAAAAC/matrix-code.gif" width="600" alt="Matrix code rain" />
-</p>
+### What I work on
 
----
+I build retrieval and automation systems, run them in production, and write the
+documentation that lets somebody else operate them without me. Before software I spent
+ten years in healthcare claims and commercial insurance, which is why I care more about
+what a system does when it fails than what it does in the demo.
 
-<h2 align="center">🌌 Vision & Mission</h2>
+| | |
+|---|---|
+| **AI systems** | Retrieval augmented generation, agent workflows, custom MCP servers, prompt and context engineering, evaluation and guardrails |
+| **Languages** | Python, JavaScript, TypeScript, PHP, SQL, HTML and CSS |
+| **Building on** | WordPress theme and plugin development, React, React Native with Expo, Next.js, Supabase, Vercel |
+| **Data** | MySQL including full-text indexing, PostgreSQL, SQLite. Schema design, migrations, and write paths that refuse to lose a record |
+| **Integration** | REST APIs, the Claude and OpenAI APIs, Gemini, Stripe webhooks, the Meta, X and YouTube APIs through Publer, n8n, Zapier |
+| **Daily** | Claude Code, OpenAI Codex, Git, VS Code |
 
-<p align="center">
-  👾 Building human-centered tech systems rooted in equity, environment, and ethical AI.
-</p>
+### Things you can open
 
----
+**[The Human Algorithm](https://mstimaj.com)** — Artificial intelligence explained in plain
+language for people with no technical background. Forty-four articles, each shipping with an
+interactive machine the reader can break.
 
-<h2 align="center">🧠 Technical Strengths</h2>
+**[Portfolio](https://fatimajalloh.com)** — A retrieval system you can type into, running over
+my published writing, with the architecture shown and the failure that set the rules.
 
-<ul>
-  <li>✨ <strong>Machine Learning & AI</strong>: Classification, NLP, logic chains, prompt engineering</li>
-  <li>📊 <strong>Data Engineering</strong>: SQL, structured/unstructured datasets, transformation</li>
-  <li>🧱 <strong>Full-Stack Development</strong>: HTML, CSS, JavaScript, Python, WordPress, REST APIs</li>
-  <li>📦 <strong>Tooling & Platforms</strong>: VS Code, Cursor, Claude, GPT-4o, Ollama, n8n, JupyterLab</li>
-  <li>🔐 <strong>Security & Infrastructure</strong>: Network hardening, local dev with XAMPP, privacy-by-design</li>
-  <li>📈 <strong>Visualization</strong>: Data storytelling, charts, timelines, bias mapping</li>
-</ul>
+**[Claude Code CLI Cheatsheet](https://github.com/MsTimaj/Claude_Code_CLI_Cheatsheet)** — A
+beginner guide to running an AI agent in a terminal, for people who have never used one.
 
----
+**[n8n](https://github.com/MsTimaj/n8n-mstimaj-simpleflows)** and
+**[Zapier](https://github.com/MsTimaj/zap-mstimaj-simpleflows) simple flows** — Working
+automations kept small enough to lift and adapt rather than study.
 
-<h2 align="center">🛠️ Current Stack</h2>
+### How I think about it
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0A0A0F?style=for-the-badge&logo=html5&logoColor=00FF9D" />
-  <img src="https://img.shields.io/badge/CSS3-0A0A0F?style=for-the-badge&logo=css3&logoColor=00FF9D" />
-  <img src="https://img.shields.io/badge/JavaScript-0A0A0F?style=for-the-badge&logo=javascript&logoColor=00FF9D" />
-  <img src="https://img.shields.io/badge/Python-0A0A0F?style=for-the-badge&logo=python&logoColor=00FF9D" />
-  <img src="https://img.shields.io/badge/MySQL-0A0A0F?style=for-the-badge&logo=mysql&logoColor=00FF9D" />
-  <img src="https://img.shields.io/badge/AI/ML-0A0A0F?style=for-the-badge&logo=tensorflow&logoColor=00FF9D" />
-</p>
+> A demo and a Tuesday are different kinds of things. One runs once, for you, with the good
+> input. The other runs every day, for strangers, on a budget, and has to fail in a way
+> somebody can see.
 
----
+I learned that the hard way. An assistant I built kept returning confident, generic answers
+for days after its model API had failed. Nothing alerted, and every health check was green.
+Whether a process ran and whether its output was correct are two different questions, and only
+one of them was being asked. So now the guardrail goes in before the feature.
 
-<h2 align="center">😄 About Me</h2>
+### Elsewhere
 
-<div align="center">
-  🌍 Global Citizen | 🛠 System Reformer | 🎯 Mission-Driven  
-  💬 I speak in code, but I build in empathy.  
-  <br/><br/>
-  <blockquote>
-  <em>“Tech should serve humanity — not the other way around.”</em>
-  </blockquote>
-  <br/><br/>
-  <blockquote>
-    “Like someone left to debug a system they didn’t build, I’ve had to trace the corruption and correct what others kept dismissing.”
-  </blockquote>
-</div>
+[mstimaj.com](https://mstimaj.com) · [fatimajalloh.com](https://fatimajalloh.com) ·
+[LinkedIn](https://www.linkedin.com/in/fatima-jalloh1) ·
+[connect@mstimaj.com](mailto:connect@mstimaj.com)
 
----
-
-<h2 align="center">📫 Connect</h2>
-
-<p align="center">
-  <a href="mailto:connect@mstimaj.com">
-    <img src="https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=00FF9D" />
-  </a>
-  <a href="https://mstimaj.com">
-    <img src="https://img.shields.io/badge/Website-0A0A0F?style=for-the-badge&logo=About.me&logoColor=00FF9D" />
-  </a>
-  <a href="https://linkedin.com/in/mstimaj">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00FF9D" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=Forward+%E2%86%92+Upward+%E2%86%92+Onward+%E2%86%92+Mstimaj" />
-</p>
-
-
+<sub>Fatima Jalloh · Mstimaj Tech and AI LLC · Connecticut · B.S. Information Technology,
+Sacred Heart University · Google AI Professional Certificate</sub>
